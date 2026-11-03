@@ -1,0 +1,39 @@
+
+{
+  "menu": [
+    {
+      "nombre": "Inicio",
+      "enlace": "#inicio"
+    },
+    {
+      "nombre": "Comidas",
+      "enlace": "#comidas",
+      "submenu": [
+        {
+          "nombre": "Hamburguesas",
+          "enlace": "#hamburguesas"
+        },
+        {
+          "nombre": "Pizzas",
+          "enlace": "#pizzas"
+        },
+        {
+          "nombre": "Pastas",
+          "enlace": "#pastas"
+        }
+      ]
+    },
+    {
+      "nombre": "Bebidas",
+      "enlace": "#bebidas"
+    },
+    {
+      "nombre": "Postres",
+      "enlace": "#postres"
+    },
+    {
+      "nombre": "Contacto",
+      "enlace": "#contacto"
+    }
+  ]
+}
